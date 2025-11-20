@@ -23,7 +23,7 @@ repository               : "hyangdai/hyangdai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Haoyang Dai"
   pronouns         : "he/him"  
   bio              : "A math and AI student"
