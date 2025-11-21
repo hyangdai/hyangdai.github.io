@@ -26,8 +26,8 @@
       "institution": "SIMIS",
       "area": "Math",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2031",
+      "startDate": "2026",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
@@ -35,7 +35,7 @@
       "institution": "SDU",
       "area": "B.S. in Math",
       "studyType": "",
-      "startDate": "",
+      "startDate": "2022",
       "endDate": "2026",
       "gpa": null,
       "courses": []
