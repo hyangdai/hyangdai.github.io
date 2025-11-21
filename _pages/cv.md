@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in SIMIS, 2026-
-* B.S. in Math, SDU, 2022-2026
+* Ph.D in SIMIS, 2031(expected)
+* B.S. in Math, SDU, 2026
   
 Skills
 ======
 * MATLAB/LINGO
-* Latex
 * Python/C++
+* Latex
 
 Publications
 ======
