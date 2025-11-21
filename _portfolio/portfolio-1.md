@@ -4,4 +4,4 @@ excerpt: "No more dreams<br/><img src='/images/nmd.png'>"
 collection: portfolio
 ---
 
-Finally smashthe RADIENCE QAQ
+Finally smash the RADIENCE QAQ
